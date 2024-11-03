@@ -42,28 +42,28 @@ Deconstructing the magic behind TikTok's addictive UI/UX, this project serves as
   implementation("com.google.android.material:material:1.5.0")
 
 ## Results
-###Initial Page look
+### Initial Page look
 ![Initial Page](initial%20screen.jpg)
 
-###Trying to enter without username and password
+### Trying to enter without username and password
 ![check 1](without%20id%20and%20password.jpg)
 
-###Trying to enter with correct username and  wrong password
+### Trying to enter with correct username and  wrong password
 ![check 1](with%20wrong%20password.jpg)
 
-###After entering correct username and password
+### After entering correct username and password
 ![check 1](home%20page.jpg)
 
-###Next image in deck
+### Next image in deck
 ![check 1](next%20imge.jpg)
 
-###Next image in deck
+### Next image in deck
 ![check 1](next%20imge.jpg)
 
-###Scrolling effect
+### Scrolling effect
 ![check 1](home%20scrolling.jpg)
 
-###Profile Section
+### Profile Section
 ![check 1](profile%20page.jpg)
 
 
