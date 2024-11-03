@@ -42,4 +42,4 @@ Deconstructing the magic behind TikTok's addictive UI/UX, this project serves as
   implementation("com.google.android.material:material:1.5.0")
 
 ## Results
-![Initial Page](initial screen.jpg)
+![Initial Page](initial_screen.jpg)
