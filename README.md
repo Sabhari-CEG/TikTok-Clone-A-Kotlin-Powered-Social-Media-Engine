@@ -1,6 +1,8 @@
 # TikTok-Clone-A-Kotlin-Powered-Social-Media-Engine
 A sophisticated reverse-engineered implementation of TikTok's core features, built with modern Android development practices. This project demonstrates advanced Kotlin programming, focusing on smooth vertical content scrolling, efficient media handling, and a robust user interface.
 
+##please look at the app demo.mp4 for demo
+
 ## 🎯 Project Vision
 Deconstructing the magic behind TikTok's addictive UI/UX, this project serves as a comprehensive case study in building high-performance social media applications. Perfect for developers looking to understand the architecture behind viral social platforms.
 
@@ -38,3 +40,6 @@ Deconstructing the magic behind TikTok's addictive UI/UX, this project serves as
   implementation("androidx.viewpager2:viewpager2:1.0.0")
   implementation("de.hdodenhof:circleimageview:3.1.0")
   implementation("com.google.android.material:material:1.5.0")
+
+## Results
+![Initial Page](initial screen.jpg)
